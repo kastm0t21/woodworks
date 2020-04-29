@@ -1,0 +1,120 @@
+Uri: https://hobbieshealthandhappiness.plinfop.com/hobby-ww-12/
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\hobby-ww-12\index.htm
+Content Type: text/html
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/feed/
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/comments/feed/
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/themes/twentytwenty/style.css?ver=1.1
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\themes\twentytwenty\style.css
+Content Type: text/css
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/themes/twentytwenty/print.css?ver=1.1
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\themes\twentytwenty\print.css
+Content Type: text/css
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.4
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.4
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/uploads/elementor/css/global.css?ver=1583427954
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/uploads/elementor/css/post-464.css?ver=1587163877
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\uploads\elementor\css\post-464.css
+Content Type: text/css
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-json/
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-json\index.json
+Content Type: application/json
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/xmlrpc.php?rsd
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-includes/wlwmanifest.xml
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhobbieshealthandhappiness.plinfop.com%2Fhobby-ww-12%2F
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhobbieshealthandhappiness.plinfop.com%2Fhobby-ww-12%2F&format=xml
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.1
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\themes\twentytwenty\assets\js\index.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/uploads/2020/04/Woodworking-7-360x360-1.jpg
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\uploads\2020\04\Woodworking-7-360x360-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-includes/js/wp-embed.min.js?ver=5.3.2
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.4
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.4
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.4
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/uploads/2020/04/Woodworking-7-360x360-1-300x300.jpg
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\uploads\2020\04\Woodworking-7-360x360-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://hobbieshealthandhappiness.plinfop.com/wp-content/uploads/2020/04/Woodworking-7-360x360-1-150x150.jpg
+File Name: F:\xampp\htdocs\New websites\Affiliate\hobbieshealthandhappiness.plinfop.com\wp-content\uploads\2020\04\Woodworking-7-360x360-1-150x150.jpg
+Content Type: image/jpeg
+
